@@ -1,0 +1,2 @@
+# WiseSaying
+Kata-kata mutiara
