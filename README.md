@@ -1,2 +1,2 @@
 # WiseSaying
-Kata-kata mutiara
+
